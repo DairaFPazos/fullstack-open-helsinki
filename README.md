@@ -1,2 +1,3 @@
-# fullstack-open-helsinki
-Solutions and projects for the FullStack Open course by the University of Helsinki, focusing on modern web development and clean code.
+# Full Stack Open - University of Helsinki
+
+Exercises and projects for the Full Stack Open program. This repository documents my progression in mastering modern full-stack technologies, with a relentless focus on writing professional-grade code and implementing industry-standard architectures.
